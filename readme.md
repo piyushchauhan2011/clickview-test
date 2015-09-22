@@ -5,6 +5,8 @@ Please go through following instructions:
 Current database name is `sampleapp`
 This application need (Laravel framework)[http://laravel.com/].
 
+![Sample Pic](https://cloud.githubusercontent.com/assets/693487/10017144/64999c62-616f-11e5-8d4b-ca527ffc1172.png)
+
 1. `git clone` repository
 2. Change the `database.php` and `.env` file to suite the database requirements
 3. Make sure `php` is there and `mysql` is running.
