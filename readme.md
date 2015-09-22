@@ -2,6 +2,8 @@
 
 Please go through following instructions:
 
+Current database name is `sampleapp`
+
 1. `git clone` repository
 2. Change the `database.php` and `.env` file to suite the database requirements
 3. Make sure `php` is there and `mysql` is running.
