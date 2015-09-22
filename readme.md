@@ -3,7 +3,7 @@
 Please go through following instructions:
 
 Current database name is `sampleapp`
-This application need Laravel framework.
+This application need (Laravel framework)[http://laravel.com/].
 
 1. `git clone` repository
 2. Change the `database.php` and `.env` file to suite the database requirements
